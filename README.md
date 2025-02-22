@@ -45,3 +45,10 @@ The classifier was tested on 401 emails:
 * Spam wrongly classified as Ham (False Negative): 37
 * Ham wrongly classified as Spam (False Positive): 50
 * Final Accuracy: 78.3%
+  
+![Image](https://github.com/user-attachments/assets/a0334b7f-f2b9-4576-874e-10801a447e61)
+
+
+* Precision: 76.5258 %
+* Recall: 81.5 %
+* F1 Score: 78.9346 %
